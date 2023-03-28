@@ -1,2 +1,1 @@
-# define your number
-number = "(country_id)your number"
+number = "phone number"#with region code, e.g: +62 for indonesia
